@@ -8,5 +8,6 @@ namespace WindowsFormsCrawl
 {
     public class Class1
     {
+        private int i;
     }
 }
